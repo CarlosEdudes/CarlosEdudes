@@ -1,10 +1,32 @@
-- 👋 Hi, I’m @CarlosEdudes, I'm from Brazil and 20 years old.
-- 👀 I am interested in learning and working as a Full Stack developer and passionate about AI (Artificial Intelligence) innovation following these two areas as a career in the not too distant future.
-- 🌱 I'm learning Full Stack as Front-End the languages of HTML5, CSS and JavaScript, as Back-End the programming languages in PHP, PYTHON and MYSQL, in frameworks and libraries are REACT.JS, NODE.JS and LARAVEL, as Cloud services will be AWS, G CLOUD and MS AZURE and fully dominate GIT & GITHUB.
-- 💞️ I seek to collaborate with programming, learn about, and get to know the world of AI
-- 📫 Instagram: @carlos_edudes LinkedIn:https://www.linkedin.com/in/carlos-assis-31bb171b2/
+## Olá! Eu sou o Carlos Assis
 
-<!---
-CarlosEdudes/CarlosEdudes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p>👨🏻‍🎓Hoje eu estudo front-end e back-end</p>
+<p>📘Estudando HTML, CSS e JavaScript juntamente com Python e PHP</p>
+<p>📧Contate-me no email: devcarlosassis@hotmail.com</p>
+<p>🧔🏻Pronomes: Ele/Dele</p>
+<div align="center">
+  <a href="https://github.com/CarlosEdudes">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CarlosEdudes&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEdudes&layout=compact&langs_count=7&theme=merko"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Carlos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Carlos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Carlos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Carlos-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Carlos-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Carlos-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="center" alt="Carlos-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
+  <img align="center" alt="Carlos-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
+  <img align="right" alt="Carlos-pic" height="150" style="border-radius:50px;" https://media.discordapp.net/channels/891131626183069747/891131993973227570/1017144044922601522>
+</div>
+
+##
+
+<div> 
+  <a href="https://www.instagram.com/carlos_edudes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/carlos-assis-31bb171b2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/CarlosEdudes/CarlosEdudes/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
