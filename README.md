@@ -6,8 +6,7 @@
 <p>🧔🏻Pronomes: Ele/Dele</p>
 <div align="center">
   <a href="https://github.com/CarlosEdudes">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=CarlosEdudes&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEdudes&layout=compact&langs_count=7&theme=merko"/>
+  <img height="130em" src="https://discord.com/channels/891131626183069747/891131993973227570/1017144044922601522"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Carlos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
