@@ -3,7 +3,6 @@
 <p>👨🏻‍🎓Hoje eu estudo front-end e back-end</p>
 <p>📘Estudando HTML, CSS e JavaScript juntamente com Python e PHP</p>
 <p>📧Contate-me no email: devcarlosassis@hotmail.com</p>
-<p>🧔🏻Pronomes: Ele/Dele</p>
 <div align="center">
   <a href="https://github.com/CarlosEdudes">
 </div>
@@ -16,7 +15,6 @@
   <img align="center" alt="Carlos-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Carlos-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
   <img align="center" alt="Carlos-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
-  <img align="right" alt="Carlos-pic" height="150" style="border-radius:50px;" src="[https://discord.com/channels/891131626183069747/891131993973227570/1017144044922601522](https://media.discordapp.net/attachments/891131993973227570/1017144044255719485/download20220903154707.png?width=406&height=406)"
 </div>
 
 ##
