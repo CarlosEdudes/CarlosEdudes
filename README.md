@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Carlos Assis
 
 <p>👨🏻‍🎓Hoje eu estudo front-end e back-end</p>
-<p>📘Estudando HTML, CSS e JavaScript juntamente com Python e PHP</p>
-<p>📧Contate-me no email: devcarlosassis@hotmail.com</p>
+<p>📘Estudando HTML, CSS e JavaScript</p>
+<p>📧Contate-me no email: devcarlosassis@hotmail.com ou devcarlosassis@icloud.com</p>
 <div align="center">
   <a href="https://github.com/CarlosEdudes">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=carlosedudes&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
