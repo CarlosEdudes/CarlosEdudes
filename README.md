@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Carlos Assis
 
-<p>👨🏻‍🎓Hoje eu estudo front-end e back-end</p>
-<p>📘Estudando HTML, CSS e JavaScript</p>
+<p>👨🏻‍🎓Hoje eu estudo Full-Stack para desenvolvimento web./p>
+<p>📘Estudo linguagens como HTML e CSS, e linguagens de programação como JavaScript.</p>
 <p>📧Contate-me no email: devcarlosassis@hotmail.com ou devcarlosassis@icloud.com</p>
 <div align="center">
   <a href="https://github.com/CarlosEdudes">
